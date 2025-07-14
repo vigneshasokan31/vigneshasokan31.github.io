@@ -13,7 +13,7 @@ main:
     url: /about/
   
   - title: "Work"
-    url: /work 
+    url: /work/ 
   
   - title: "CV"
     url: https://vigneshasokan31.github.io/files/CV-Vignesh.pdf
