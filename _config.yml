@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : files/pic
+  avatar           : "https://vigneshasokan31.github.io/files/pic.jpeg"
   name             : "Vignesh Asokan"
   pronouns         : "he/him"
   bio              : "PhD Candidate"
