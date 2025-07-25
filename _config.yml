@@ -27,7 +27,7 @@ author:
   pronouns         : "he/him"
   bio              : "PhD Candidate"
   location         : "Klosterneuberg, Austria"
-  employer         : "<a href='https://ista.ac.at/en/home/' target='_blank'>IST Austria</a>"
+  employer         : "<href='https://ista.ac.at/en/home/' target='_blank'>IST Austria</a>"
   uri              : # URL
   email            : "vignesh742@gmail.com" 
 
