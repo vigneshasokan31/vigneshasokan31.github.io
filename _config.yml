@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Vignesh Asokan"
   pronouns         : "he/him"
-  bio              : "PhD Candidate"
+  bio              : "PhD Candidate at <a href='https://ista.ac.at/en/home/' target='_blank'>IST Austria</a>"
   location         : "Klosterneuberg, Austria"
-  employer         : "<ahref='https://ista.ac.at/en/home/' target='_blank'>IST Austria</a>"
+  employer         : 
   uri              : # URL
   email            : "vignesh742@gmail.com" 
 
