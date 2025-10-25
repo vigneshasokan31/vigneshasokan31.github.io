@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,12 +10,15 @@ redirect_from:
 {% include base_path %}
 
 Education
+------------------
 ======
-* Ph.D  (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate, 2025 - Present
+  _Institute of Science and Technology Austria_
+* BS-MS Dual Degree, Major in Physics, 2020 - 2025
+  _Indian Institute of Science Education and Research Mohali_
+  * CGPA : 9.41/10
 
-Work experience
+Research Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
