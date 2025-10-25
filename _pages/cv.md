@@ -22,7 +22,7 @@ Education
 
 Research Experience
 ======
-* Master Thesis <span style="float: right;">June 2024 - Feb 2025</span>
+* Master Thesis <span style="float: right;">June 2024 - Feb 2025</span>  
   _University of Göttingen_
   * GitHub University
   * Duties includes: Updates and improvements to template
