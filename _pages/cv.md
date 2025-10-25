@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,13 +10,15 @@ redirect_from:
 {% include base_path %}
 
 Education
-------------------
 ======
-* Ph.D Candidate, 2025 - Present
+* Ph.D Candidate, 2025 - Present  
   _Institute of Science and Technology Austria_
-* BS-MS Dual Degree, Major in Physics, 2020 - 2025
+* BS-MS Dual Degree, Major in Physics, 2020 - 2025  
   _Indian Institute of Science Education and Research Mohali_
   * CGPA : 9.41/10
+* Senior Secondary Education, 2018-2020
+  Springdales School, Dhaula Kuan
+  * Secured 95.8%
 
 Research Experience
 ======
