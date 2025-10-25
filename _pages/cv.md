@@ -46,7 +46,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+#Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -58,10 +58,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+#Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+ # <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ # {% endfor %}</ul>
   
 You can view the pdf version [here](https://vigneshasokan31.github.io/files/CV-Vignesh.pdf).
