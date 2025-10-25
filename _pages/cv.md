@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate <span style="float: right;">2025 - Present    
+* Ph.D Candidate <span style="float: right;">2025 - Present<br>
   _Institute of Science and Technology Austria_
 * BS-MS Dual Degree, Major in Physics <span style="float: right;">2020 - 2025    
   _Indian Institute of Science Education and Research Mohali_
