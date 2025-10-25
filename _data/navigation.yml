@@ -14,8 +14,8 @@ main:
   - title: "Work"
     url: /work/ 
   
-  - title: "CV"
-    url: https://vigneshasokan31.github.io/files/CV-Vignesh.pdf
+  #- title: "CV"
+  #  url: https://vigneshasokan31.github.io/files/CV-Vignesh.pdf
     
   #- title: "Publications"
   #  url: /publications/
@@ -34,8 +34,8 @@ main:
     
 
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
     
   #- title: "Guide"
   #  url: /markdown/
