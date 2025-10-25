@@ -16,8 +16,8 @@ Education
 * BS-MS Dual Degree, Major in Physics, 2020 - 2025  
   _Indian Institute of Science Education and Research Mohali_
   * CGPA : 9.41/10
-* Senior Secondary Education, 2018-2020
-  Springdales School, Dhaula Kuan
+* Senior Secondary Education, 2018-2020  
+  _Springdales School, Dhaula Kuan_
   * Secured 95.8%
 
 Research Experience
