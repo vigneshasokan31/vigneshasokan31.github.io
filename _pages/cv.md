@@ -11,15 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate <span style="float: right;">2025 - Present<br>
-
-  _Institute of Science and Technology Austria_
-* BS-MS Dual Degree, Major in Physics <span style="float: right;">2020 - 2025    
-
+* Ph.D Candidate <span style="float: right;">2025 - Present</span>    
+ _Institute of Science and Technology Austria_
+* BS-MS Dual Degree, Major in Physics <span style="float: right;">2020 - 2025</span>    
   _Indian Institute of Science Education and Research Mohali_
   * CGPA : 9.41/10
-* Senior Secondary Education <span style="float: right;">2018-2020    
-
+* Senior Secondary Education <span style="float: right;">2018-2020</span>        
   _Springdales School, Dhaula Kuan_
   * Secured 95.8%
 
