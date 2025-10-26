@@ -26,9 +26,7 @@ Research Experience
 ======
 * Master Thesis <span style="float: right;">June 2024 - Feb 2025</span>    
   _University of Göttingen_
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supevisors: Prof. Thomas Weitz and Isabell Weimer
 
 * Fall 2015: Research Assistant
   * GitHub University
