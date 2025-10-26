@@ -13,6 +13,8 @@ Education
 ======
 * Ph.D Candidate <span style="float: right;">2025 - Present</span>    
  _Institute of Science and Technology Austria_
+  * Physics Track
+  * Working on investigating correlated physics in van der Waals heterostructures.
 * BS-MS Dual Degree, Major in Physics <span style="float: right;">2020 - 2025</span>    
   _Indian Institute of Science Education and Research Mohali_
   * CGPA : 9.41/10
