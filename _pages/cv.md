@@ -30,10 +30,10 @@ Research Experience
   * Supevisors: Prof. Thomas Weitz and Isabell Weimer
   * Worked on fabrication of Suspended Graphene-MoS<sub>2</sub> Heterostructures for the study of proximity effects in Graphene in a low dielectric environment. 
 
-* Research Internship <span style="float: right;">May 2023 - July 2023</span>
+* Research Internship <span style="float: right;">May 2023 - July 2023</span>  
   _Institute of Science and Technology Austria_
   * Supervisor: Prof. Hryhoriy Polshyn
-  * Gained experience in exfoliation and assembly of van der Waals heterostructures using Dry Transfer method.
+  * Gained experience in exfoliation and assembly of van der Waals  using Dry Transfer method.
 
 * Research Internship <span style="float: right;">May 2022 - Aug 2022</span>  
   _Centre for Nanoscience and Engineering, Indian Institute of Science_
