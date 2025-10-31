@@ -35,7 +35,7 @@ Research Experience
   * Supervisor: Prof. Hryhoriy Polshyn
   * Gained experience in exfoliation and assembly of van der Waals materials using Dry Transfer method.
 
-* Research Internship <span style="float: right;">May 2022 - Aug 2022</span>
+* Research Internship <span style="float: right;">May 2022 - Aug 2022</span>  
   _Centre for Nanoscience and Engineering, Indian Institute of Science_
   * Supervisors: Prof. Pavan Nukala and Dr. Jalaja M A
   * Worked on Sol-Gel synthesis of Gd doped Hafnia. Performed structural characterization for various doping concentrations using XRD and SEM.
