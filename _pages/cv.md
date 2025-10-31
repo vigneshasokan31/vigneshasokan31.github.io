@@ -33,7 +33,7 @@ Research Experience
 * Research Internship <span style="float: right;">May 2023 - July 2023</span>
   _Institute of Science and Technology Austria_
   * Supervisor: Prof. Hryhoriy Polshyn
-  * Gained experience in exfoliation and assembly of van der Waals materials using Dry Transfer method.
+  * Gained experience in exfoliation and assembly of van der Waals heterostructures using Dry Transfer method.
 
 * Research Internship <span style="float: right;">May 2022 - Aug 2022</span>  
   _Centre for Nanoscience and Engineering, Indian Institute of Science_
