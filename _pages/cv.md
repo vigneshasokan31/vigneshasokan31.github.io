@@ -40,6 +40,19 @@ Research Experience
   * Supervisors: Prof. Pavan Nukala and Dr. Jalaja M A
   * Worked on Sol-Gel synthesis of Gd doped Hafnia. Performed structural characterization for various doping concentrations using XRD and SEM.
 
-  
+Awards
+====== 
+ * DAAD-WISE Scholarship <span style="float: right;">2023</span>     
+  Selected for the DAAD-WISE scholarship for 2023 by the German Academic Exchange Service to pursue a summer internship in a German research institute.
+
+ * Zonal Topper <span style="float: right;">2022</span>  
+  Part of a team which stood as Zonal Toppers for the Haryana-Punjab region for Mimamsa, a National Science Quiz conducted by IISER Pune.
+
+ * Certificate of Merit <span style="float: right;">2021</span>   
+  Awarded for obtaining a 10 SGPA in Monsoon semester by IISER Mohali.
+
+ * INSPIRE-SHE Scholarship <span style="float: right;">2020-25</span>    
+  Receipient of the Innovation in Science Pursuit for Inspired Research - Scholarship for Higher Education (INSPIRE-SHE) for top 1% students by Department of Science and Technology, India.
+
 You can view the pdf version [here](https://vigneshasokan31.github.io/files/CV-Vignesh.pdf).
 
